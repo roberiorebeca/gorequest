@@ -1,3 +1,3 @@
-module example/request
+module roberiorebeca/gorequest
 
 go 1.21.4
